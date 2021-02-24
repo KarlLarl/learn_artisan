@@ -1,0 +1,12 @@
+https://medium.com/@kozyreva.hanna/nuxt-js-fontawesome-integration-7ec56b1a41c8
+
+
+$ yarn add @fortawesome/fontawesome-svg-core &&
+ @fortawesome/free-regular-svg-icons && 
+ @fortawesome/free-brands-svg-icons &&
+ @fortawesome/free-solid-svg-icons &&
+ @fortawesome/vue-fontawesome &&
+
+$ yarn add nuxt-fontawesome
+
+<font-awesome-icon :icon="['far', 'bell']" />
